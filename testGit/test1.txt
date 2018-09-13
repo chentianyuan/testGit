@@ -1,13 +1,15 @@
 2222222222222222222222222222
 
-delete All¡£
+delete Allï¿½ï¿½
 
-merge use for branch¡£
+merge use for branchï¿½ï¿½
 
 44444444444444444444444444444
 
-555555¡£your code have been dispatched¡£
+555555ï¿½ï¿½your code have been dispatchedï¿½ï¿½
 
 test stash QAQ
 
 aaaaaaaaaaaaaaaaa
+
+æµ‹è¯•åˆå¹¶åçš„å›æ»š

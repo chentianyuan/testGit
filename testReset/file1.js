@@ -12,3 +12,5 @@ alert('分支1的第十行代码，我来冲突了')
 
 alert('测试reset的一行')
 alert('分支2的第八行代码')
+
+alert('branch2的第十行代码')

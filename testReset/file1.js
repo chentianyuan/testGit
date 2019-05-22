@@ -9,5 +9,6 @@ alert('分支1的第八行代码，我来冲突了')
 
 alert('分支1的第十行代码，我来冲突了')
 
+alert('aaaaaaaa')
 
 alert('测试reset的一行')

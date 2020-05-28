@@ -16,3 +16,4 @@ alert('分支1的第十行代码，我来冲突了')
 alert('aaaaaaaa')
 
 alert('测试reset的一行')
+alert('测试的第二行')
